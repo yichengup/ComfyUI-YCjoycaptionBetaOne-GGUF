@@ -2,6 +2,8 @@
 
 This project provides a node for ComfyUI to use the JoyCaption-Beta model in GGUF format for image captioning.
 
+[中文版说明](README-ZH.md)
+
 **Acknowledgments:**
 
 This node is based on [fpgaminer/joycaption_comfyui](https://github.com/fpgaminer/joycaption_comfyui), with modifications to support the GGUF model format.
