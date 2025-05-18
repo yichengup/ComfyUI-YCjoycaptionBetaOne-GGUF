@@ -47,4 +47,4 @@
 
 您可以参考以下 Bilibili 视频教程进行设置和使用：
 
-[https://www.bilibili.com/video/BV1gRVgzYEUPeee/](https://www.bilibili.com/video/BV1gRVgzYEUPeee/)  (视频制作中)
+[视频](https://www.bilibili.com/video/BV1JKJgzZEgR/)
