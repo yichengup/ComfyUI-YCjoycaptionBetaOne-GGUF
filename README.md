@@ -49,4 +49,4 @@ You need to download the JoyCaption-Beta GGUF model and the corresponding mmproj
 
 You can refer to the following Bilibili video tutorial for setup and usage:
 
-[https://www.bilibili.com/video/BV1gRVgzYEUPeee/](https://www.bilibili.com/video/BV1gRVgzYEUPeee/)  (Video in production)
+[Video](https://www.bilibili.com/video/BV1JKJgzZEgR/)
