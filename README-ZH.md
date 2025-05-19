@@ -17,7 +17,7 @@
 * 直接使用 `pip install llama-cpp-python` 安装只能在 CPU 上运行。
 * 如需使用 NVIDIA GPU 加速推理，请使用以下命令安装：
     ```bash
-pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu124
+    pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu124
     ```
     *(请根据您的 CUDA 版本调整 `cu124`)*
 * 非英伟达显卡或其他安装方法，请参考 `llama-cpp-python` 官方文档：
