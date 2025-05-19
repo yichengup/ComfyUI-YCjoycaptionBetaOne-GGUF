@@ -6,6 +6,8 @@
 
 本项目基于 [fpgaminer/joycaption_comfyui](https://github.com/fpgaminer/joycaption_comfyui) 进行修改，主要变化在于支持 GGUF 模型格式。
 
+感谢[layerstyleadvance](https://github.com/chflame163/ComfyUI_LayerStyle_Advance)节点，我从中复制了extra options相关代码
+
 ## 使用方法
 
 ### 安装依赖
