@@ -19,7 +19,7 @@ This node requires `llama-cpp-python` to be installed.
 * Installing with `pip install llama-cpp-python` will only enable CPU inference.
 * To utilize NVIDIA GPU acceleration, install with the following command:
     ```bash
-    pip install llama-cpp-python --extra-index-url [https://abetlen.github.io/llama-cpp-python/whl/cu124](https://abetlen.github.io/llama-cpp-python/whl/cu124)
+    pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu124
     ```
     *(Adjust `cu124` according to your CUDA version)*
 * For non-NVIDIA GPUs or other installation methods, please refer to the official `llama-cpp-python` documentation:
