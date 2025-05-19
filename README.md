@@ -8,6 +8,8 @@ This project provides a node for ComfyUI to use the JoyCaption-Beta model in GGU
 
 This node is based on [fpgaminer/joycaption_comfyui](https://github.com/fpgaminer/joycaption_comfyui), with modifications to support the GGUF model format.
 
+Thanks to the [LayerStyleAdvance](https://github.com/chflame163/ComfyUI_LayerStyle_Advance), I copied the relevant code for extra options from it.
+
 ## Usage
 
 ### Installation
