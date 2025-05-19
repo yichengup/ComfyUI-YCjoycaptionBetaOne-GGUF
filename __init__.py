@@ -7,10 +7,12 @@ try:
     NODE_CLASS_MAPPINGS = {
         "JJC_JoyCaption_GGUF": nodes_gguf.JoyCaptionGGUF,
         "JJC_JoyCaption_Custom_GGUF": nodes_gguf.JoyCaptionCustomGGUF,
+        "JJC_JoyCaption_GGUF_ExtraOptions": nodes_gguf.JoyCaptionGGUFExtraOptions,
     }
     NODE_DISPLAY_NAME_MAPPINGS = {
         "JJC_JoyCaption_GGUF": "JoyCaption (GGUF)",
         "JJC_JoyCaption_Custom_GGUF": "JoyCaption (Custom GGUF)",
+        "JJC_JoyCaption_GGUF_ExtraOptions": "JoyCaption GGUF Extra Options",
     }
     print("[JoyCaption] GGUF nodes loaded.")
 
